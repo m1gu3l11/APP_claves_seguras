@@ -100,12 +100,6 @@ python app.py
 
 La primera ejecución requiere inicializar la autoridad certificadora. Para ello, se debe establecer una contraseña maestra segura que proteja su clave privada.
 
-## Alcance y limitaciones
-
-El proyecto constituye un prototipo académico orientado al estudio de la criptografía aplicada. Los sobres cifrados se gestionan mediante el sistema de archivos local; la aplicación no incorpora por sí misma un mecanismo de transporte de archivos entre ordenadores a través de Internet.
-
-El sistema no ha sido auditado para su utilización en producción.
-
 ## Aprendizajes
 
 Este proyecto permitió aplicar conceptos de criptografía simétrica y asimétrica, infraestructura de clave pública (PKI), certificados digitales, firmas digitales, gestión segura de claves y autenticación de usuarios, así como integrar estos mecanismos en una aplicación de escritorio.
